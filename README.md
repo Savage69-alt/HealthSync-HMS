@@ -12,9 +12,12 @@ HealthSync HMS is a web-based healthcare management system designed to support e
 
 ## Tech Stack
 
-Frontend: React, HTML, Tailwind CSS
-Backend: Supabase,JavaScript
-Authentication: Supabase Auth
+Frontend: React, HTML, Tailwind CSS.
+
+Backend: Supabase,JavaScript.
+
+Authentication: Supabase Auth.
+
 Database: PostgreSQL (via Supabase)
 
 
